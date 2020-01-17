@@ -1,5 +1,5 @@
 {
-  "name": "uselazyloading",
+  "name": "@yayatomas/uselazyloading",
   "version": "1.0.0",
   "description": "react hook to load content if its in the viewport",
   "main": "index.js",
