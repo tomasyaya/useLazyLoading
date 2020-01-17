@@ -1,0 +1,22 @@
+{
+  "name": "uselazyloading",
+  "version": "1.0.0",
+  "description": "react hook to load content if its in the viewport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasyaya/useLazyLoading.git"
+  },
+  "author": "yayatomasmiguel@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasyaya/useLazyLoading/issues"
+  },
+  "homepage": "https://github.com/tomasyaya/useLazyLoading#readme",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
